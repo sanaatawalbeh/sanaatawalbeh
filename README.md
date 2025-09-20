@@ -8,7 +8,7 @@
 ## 📫 Connect with me
 
 <a href="https://www.linkedin.com/in/sanaa-tawalbeh-959911318/">
-  <img src="[s/2022/04/linkedin-dark-theme.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png)" 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" 
        alt="LinkedIn" 
        width="50" 
        height="50" 

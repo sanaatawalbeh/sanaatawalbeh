@@ -1,8 +1,14 @@
+<p align="center">
+
 # Hi, I'm Sana'a Tawalbeh 👋
 
 **Software Engineer | JavaScript Developer | .NET Developer**
 
+</p>
+
 ---
+
+
 ## 📫 Connect with me  
 
 <a href="https://www.linkedin.com/in/sanaa-tawalbeh-959911318/">
@@ -44,7 +50,7 @@
 </a>
 
 <a href="https://www.postman.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Postman_logo.png" alt="Postman" width="50" style="margin-right: 10px;" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFcYJoetYqKxgVtDoFHN08qIF811Aglug-sw&s" alt="Postman" width="50" style="margin-right: 10px;" />
 </a>
 
 <a href="https://www.postgresql.org/">
@@ -56,5 +62,9 @@
 </a>
 
 <a href="https://firebase.google.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" alt="Firebase" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" alt="Firebase" width="50" style="margin-right: 10px;" />
+</a>
+
+<a href="https://isocpp.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50" />
 </a>

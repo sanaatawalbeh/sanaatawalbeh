@@ -19,6 +19,14 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" style="margin-right: 10px;" />
 </a>
 
+<a href="https://nodejs.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="50" style="margin-right: 10px;" />
+</a>
+
+<a href="https://reactjs.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50" style="margin-right: 10px;" />
+</a>
+
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/256px-Logo_C_sharp.svg.png" alt="C#" width="50" style="margin-right: 10px;" />
 </a>
@@ -33,14 +41,6 @@
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="50" style="margin-right: 10px;" />
-</a>
-
-<a href="https://nodejs.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="50" style="margin-right: 10px;" />
-</a>
-
-<a href="https://reactjs.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50" style="margin-right: 10px;" />
 </a>
 
 <a href="https://www.postman.com/">

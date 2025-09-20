@@ -9,8 +9,13 @@
 ## 📫 Connect with me
 
 <a href="https://www.linkedin.com/in/sanaa-tawalbeh-959911318/">
-  <img src="https://yt3.googleusercontent.com/i6KNxiy3gME-BulL4WnuGkTGqHuSYF8jl1WRn0rXftcJdHKcJ3gLAaPc-KfhmLSYPwf824=s900-c-k-c0x00ffffff-no-rj" alt="LinkedIn" width="50" height="50" style="margin: 0 10px; border-radius: 10px;" />
+  <img src="https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/linkedin-dark-theme.jpg" 
+       alt="LinkedIn" 
+       width="50" 
+       height="50" 
+       style="margin: 5px; border-radius: 10px; object-fit: cover;" />
 </a>
+
 
 <a href="mailto:sanaatawalbeh0@gmail.com">
   <img src="https://static.vecteezy.com/system/resources/previews/021/514/701/non_2x/google-gmail-logo-symbol-design-illustration-with-black-background-free-vector.jpg" alt="Email" width="50" height="50" style="margin: 0 10px; border-radius: 10px;" />

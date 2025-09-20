@@ -1,4 +1,3 @@
-<div align="center">
 
 # Hi, I'm Sana'a Tawalbeh 👋
 
@@ -9,7 +8,7 @@
 ## 📫 Connect with me
 
 <a href="https://www.linkedin.com/in/sanaa-tawalbeh-959911318/">
-  <img src="https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/linkedin-dark-theme.jpg" 
+  <img src="[s/2022/04/linkedin-dark-theme.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png)" 
        alt="LinkedIn" 
        width="50" 
        height="50" 
@@ -81,4 +80,3 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50" height="50" style="margin: 5px; border-radius: 10px;" />
 </a>
 
-</div>

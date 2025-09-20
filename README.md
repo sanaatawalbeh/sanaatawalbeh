@@ -5,10 +5,13 @@
 ---
 ## 📫 Connect with me  
 
-[![](https://yt3.googleusercontent.com/i6KNxiy3gME-BulL4WnuGkTGqHuSYF8jl1WRn0rXftcJdSYK7dHKcJ3gLAaPc-KfhmLSYPwf824=s900-c-k-c0x00ffffff-no-rj)](https://www.linkedin.com/in/sanaa-tawalbeh-959911318/)  
-[![]([https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white](https://static.vecteezy.com/system/resources/previews/021/514/701/non_2x/google-gmail-logo-symbol-design-illustration-with-black-background-free-vector.jpg))](mailto:sanaatawalbeh0@gmail.com)  
+<a href="https://www.linkedin.com/in/sanaa-tawalbeh-959911318/">
+  <img src="https://yt3.googleusercontent.com/i6KNxiy3gME-BulL4WnuGkTGqHuSYF8jl1WRn0rXftcJdSYK7dHKcJ3gLAaPc-KfhmLSYPwf824=s900-c-k-c0x00ffffff-no-rj" alt="LinkedIn" width="50" style="margin-right: 10px;" />
+</a>
 
----
+<a href="mailto:sanaatawalbeh0@gmail.com">
+  <img src="https://static.vecteezy.com/system/resources/previews/021/514/701/non_2x/google-gmail-logo-symbol-design-illustration-with-black-background-free-vector.jpg" alt="Email" width="50" />
+</a>
 
 ## 🔧 Languages & Tools
 

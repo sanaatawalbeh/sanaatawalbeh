@@ -61,10 +61,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="50" height="50" style="margin-right: 10px;" />
 </a>
 
-<a href="https://firebase.google.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" alt="Firebase" width="50" height="50" style="margin-right: 10px;" />
-</a>
-
 <a href="https://isocpp.org/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50" height="50" />
 </a>

@@ -1,14 +1,10 @@
-<p align="center">
+<div align="center">
 
 # Hi, I'm Sana'a Tawalbeh 👋
 
 **Software Engineer | JavaScript Developer | .NET Developer**
 
-</p>
-
 ---
-
-<p align="center">
 
 ## 📫 Connect with me
 
@@ -20,11 +16,7 @@
   <img src="https://static.vecteezy.com/system/resources/previews/021/514/701/non_2x/google-gmail-logo-symbol-design-illustration-with-black-background-free-vector.jpg" alt="Email" width="50" height="50" style="margin: 0 10px;" />
 </a>
 
-</p>
-
 ---
-
-<p align="center">
 
 ## 🔧 Languages & Tools
 
@@ -80,12 +72,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="50" height="50" style="margin: 5px;" />
 </a>
 
-<a href="https://firebase.google.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" alt="Firebase" width="50" height="50" style="margin: 5px;" />
-</a>
-
 <a href="https://isocpp.org/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50" height="50" style="margin: 5px;" />
 </a>
 
-</p>
+</div>

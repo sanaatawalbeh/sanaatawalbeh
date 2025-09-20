@@ -62,7 +62,7 @@
 </a>
 
 <a href="https://firebase.google.com/">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg](https://firebase.google.com/images/social.png)" alt="Firebase" width="50" style="margin-right: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" alt="Firebase" width="50" style="margin-right: 10px;" />
 </a>
 
 <a href="https://isocpp.org/">

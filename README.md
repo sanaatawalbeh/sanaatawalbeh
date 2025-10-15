@@ -25,10 +25,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanaatawalbeh&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=sanaatawalbeh&theme=dracula" alt="GitHub Streak" />
-</p>
-
 
 <h3 align="center">🛠️ Tools & Technologies</h3>
 

@@ -21,6 +21,15 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanaatawalbeh&layout=compact&theme=dracula" alt="Top Languages" />
+</p>
+
+<!-- GitHub Activity -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanaatawalbeh&theme=dracula" alt="GitHub Streak" />
+</p>
+
 <h3 align="center">🛠️ Tools & Technologies</h3>
 
 <p align="center">

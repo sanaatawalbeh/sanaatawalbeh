@@ -1,82 +1,86 @@
-
-# Hi, I'm Sana'a Tawalbeh 👋
-
-**Software Engineer | JavaScript Developer | .NET Developer**
-
----
-
-## 📫 Connect with me
-
-<a href="https://www.linkedin.com/in/sanaa-tawalbeh-959911318/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" 
-       alt="LinkedIn" 
-       width="50" 
-       height="50" 
-       style="margin: 5px; border-radius: 10px; object-fit: cover;" />
+<!-- 💫 GitHub Profile by Thekra Qaqish -->
+ 
+<!-- Profile Views -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Sanaatawalbeh&label=Profile%20views&color=blueviolet&… alt="ThekraQaqish" />
+<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="20px" />
+</p>
+ 
+<!-- GitHub Stats -->
+<p align="center">
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/ThekraQaqish?cardType=github&theme=dr… />
+</p>
+ 
+<h3 align="center"> Connect with me</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/sanaa-tawalbeh-959911318/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=wh… height="35"/>
+</a>
+<a href="mailto:sanaatawalbeh0@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+</a>
+</p>
+<h3 align="center"> Tools & Technologies</h3>
+ 
+<p align="center">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.s… alt="express" width="40" height="40"/>
+</a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-word… alt="postgresql" width="40" height="40"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.s… alt="mongodb" width="40" height="40"/>
+</a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
+</a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+</a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
+</a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</a>
+<a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+</a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+</a>
+<a href="https://learn.microsoft.com/en-us/dotnet/core/introduction" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
+</a>
+<a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET Core" width="40" height="40"/>
+</a>
+<a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 </a>
 
+</p>
+ 
+ 
+<p align="center">💡 Crafting modern web experiences with JavaScript, React, Node.js, and .NET ✨</p>
 
-<a href="mailto:sanaatawalbeh0@gmail.com">
-  <img src="https://static.vecteezy.com/system/resources/previews/021/514/701/non_2x/google-gmail-logo-symbol-design-illustration-with-black-background-free-vector.jpg" alt="Email" width="50" height="50" style="margin: 0 10px; border-radius: 10px;" />
-</a>
-
----
-
-## 🔧 Languages & Tools
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" height="50" style="margin: 5px; border-radius: 10px;" />
-</a>
-
-<a href="https://nodejs.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="50" height="50" style="margin: 5px; border-radius: 10px;" />
-</a>
-
-<a href="https://reactjs.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50" height="50" style="margin: 5px; border-radius: 10px;" />
-</a>
-
-<a href="https://angular.io/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular" width="50" height="50" style="margin: 5px; border-radius: 10px;" />
-</a>
-
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/256px-Logo_C_sharp.svg.png" alt="C#" width="50" height="50" style="margin: 5px; border-radius: 10px;" />
-</a>
-
-<a href="https://dotnet.microsoft.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET" width="50" height="50" style="margin: 5px; border-radius: 10px;" />
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="50" height="50" style="margin: 5px; border-radius: 10px;" />
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="50" height="50" style="margin: 5px; border-radius: 10px;" />
-</a>
-
-<a href="https://git-scm.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="50" height="50" style="margin: 5px; border-radius: 10px;" />
-</a>
-
-<a href="https://code.visualstudio.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="50" height="50" style="margin: 5px; border-radius: 10px;" />
-</a>
-
-<a href="https://www.postman.com/">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFcYJoetYqKxgVtDoFHN08qIF811Aglug-sw&s" alt="Postman" width="50" height="50" style="margin: 5px; border-radius: 10px;" />
-</a>
-
-<a href="https://www.postgresql.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="50" height="50" style="margin: 5px; border-radius: 10px;" />
-</a>
-
-<a href="https://www.mysql.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="50" height="50" style="margin: 5px; border-radius: 10px;" />
-</a>
-
-<a href="https://isocpp.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50" height="50" style="margin: 5px; border-radius: 10px;" />
-</a>
-
+ 

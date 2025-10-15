@@ -2,7 +2,7 @@
  
 <!-- Profile Views -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Sanaatawalbeh&label=Profile%20views&color=blueviolet&… alt="ThekraQaqish" />
+<img src="https://komarev.com/ghpvc/?username=sanaatawalbeh&label=Profile%20views&color=blueviolet&… alt="ThekraQaqish" />
 <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="20px" />
 </p>
  
